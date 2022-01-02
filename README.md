@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 [![Aditi's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=aditi1403&theme=tokyonight)](https://github.com/aditi1403/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditi1403&layout=compact&theme=tokyonight)](https://github.com/aditi1403/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditi1403&layout=compact&theme=tokyonight&langs_count=8)](https://github.com/aditi1403/github-readme-stats)
 
 <!-- <img src="https://st4.depositphotos.com/4187959/25109/v/380/depositphotos_251091248-stock-illustration-new-delhi-skyline.jpg?forcejpeg=true"/> -->
