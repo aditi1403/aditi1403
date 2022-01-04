@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Profile views](https://komarev.com/ghpvc/?username=aditi1403&color=blueviolet)
+
 [![Aditi's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditi1403&show_icons=true&theme=tokyonight)](https://github.com/aditi1403/github-readme-stats)
 
 [![Aditi's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=aditi1403&theme=tokyonight)](https://github.com/aditi1403/github-readme-stats)
